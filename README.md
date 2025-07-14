@@ -1,4 +1,4 @@
-# Simulação Dinâmica de Uma Bicicleta Elétrica Autônoma
+# Simulação Dinâmica de uma Bicicleta Elétrica Autônoma
 
 Este projeto apresenta a modelagem e simulação completa de uma bicicleta elétrica autônoma em ambientes com subidas, descidas e curvas suaves. O sistema foi construído do zero com foco em aplicações reais de mobilidade elétrica, controle inteligente e otimização energética.
 
