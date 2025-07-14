@@ -45,14 +45,13 @@ O notebook está pronto para ser executado em Google Colab ou Jupyter Notebook. 
 bicicleta_eletrica_autonoma/  
 ├── notebooks/  
 │   └── Bicicleta_Elétrica_Autônoma.ipynb  
-├── README.md  
-├── requirements.txt  
+├── README.md    
 └── LICENSE
 
 ## Autor
 
 Heitor Tonet  
-Engenheiro de Controle e Automação e Cientista de Dados com foco em simulações realistas, controle autônomo e otimização veicular. Projeto técnico avançado voltado para aplicações em mobilidade elétrica inteligente.
+Engenheiro de Controle e Automação e Cientista de Dados, com foco em aplicações industriais, mobilidade inteligente e modelagem preditiva aplicada ao mundo físico.
 
 ## Licença
 
