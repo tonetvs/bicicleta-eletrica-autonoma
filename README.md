@@ -38,7 +38,9 @@ IPython.display (HTML)
 
 ## Execução
 
-O notebook está pronto para ser executado em Google Colab ou Jupyter Notebook. Todos os modelos estão encapsulados e simulam a física real da bicicleta elétrica com base nos parâmetros fornecidos.
+O notebook está pronto para ser executado em Google Colab ou Jupyter Notebook. Todos os modelos estão encapsulados e simulam a física real da bicicleta elétrica com base nos parâmetros fornecidos. Para acessar a versão completa com todos os gráficos, tabelas e análises rodadas, acesse:
+
+https://drive.google.com/file/d/1CUF5UIek2F2t5kC4Xt1BVwTa2tPPtiwO/view?usp=drive_link
 
 ## Estrutura
 
